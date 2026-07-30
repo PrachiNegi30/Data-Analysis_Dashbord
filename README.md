@@ -179,33 +179,6 @@ Key outcomes include:
 
 ---
 
-# Project Structure
-
-```
-OTT-Churn-Analysis
-│
-├── data/
-│   ├── customer.csv
-│   ├── subscription.csv
-│   └── support.csv
-│
-├── notebooks/
-│   └── churn_analysis.ipynb
-│
-├── sql/
-│   └── queries.sql
-│
-├── dashboard/
-│   └── churn_dashboard.pbix
-│
-├── images/
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
 # Future Improvements
 
 - Develop a machine learning model for churn prediction.
