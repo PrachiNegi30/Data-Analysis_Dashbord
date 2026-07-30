@@ -8,7 +8,7 @@ Customer retention is one of the most important success factors for subscription
 
 The analysis includes data cleaning, feature engineering, exploratory data analysis (EDA), KPI generation, and visualization to help stakeholders understand customer behavior and reduce revenue loss.
 
-## 🎯 Objectives
+## Objectives
 
 - Measure customer churn and retention rates.
 - Identify high-risk customer segments.
@@ -37,19 +37,22 @@ The analysis combines data from three relational tables:
 ### Customer
 - Customer ID
 - Name
-- Gender
-- Date of Birth
 - Country
 - State
+- Gender
+- Dob
 - Interests
+- Pin code
 
 ### Subscription
 - Subscription Start Date
 - Subscription Type
 - Plan Type
+- Customer ID
 - Contract Type
 - Renewal Date
 - Cancellation Date
+- Cancellation reason
 - Monthly Charges
 - Customer Lifetime Value (CLTV)
 - Churn Score
@@ -59,6 +62,7 @@ The analysis combines data from three relational tables:
 - Escalation Count
 - CSAT Score
 - Customer Comments
+- Customer ID
 
 ---
 
@@ -212,9 +216,9 @@ OTT-Churn-Analysis
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Your Name**
+**Prachi Negi**
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
+- LinkedIn: www.linkedin.com/in/prachi-negi-b36999229
+- GitHub: github.com/PrachiNegi30
